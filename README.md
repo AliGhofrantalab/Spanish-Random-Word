@@ -41,8 +41,7 @@ https://alighofrantalab.github.io/Spanish-Random-Word/
 
 ## 📸 Preview
 
-(Add a screenshot of your project here)
-
+![Preview](Spanish Random Word.png)
 ---
 
 ## 🧭 Version History
@@ -67,7 +66,7 @@ https://alighofrantalab.github.io/Spanish-Random-Word/
 
 **Ali Ghofrantalab**
 
-- GitHub: https://github.com/YOUR-USERNAME
+- GitHub: https://github.com/AliGhofrantalab
 - Project created for learning and portfolio purposes
 
 ---
