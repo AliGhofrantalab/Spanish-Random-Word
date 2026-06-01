@@ -1,4 +1,4 @@
-# 🇪🇸 Spanish Random Word
+# Spanish Random Word
 
 A simple and interactive JavaScript project that displays random Spanish words with their meanings and example sentences in Persian.
 
