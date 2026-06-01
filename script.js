@@ -10,16 +10,11 @@ const words = [
     example: "Mi casa es grande."
      },
       {
-    word: "Perro",
+       word: "Perro",
     meaning: "سگ",
     example: "Tengo un perro."
   },
-     {
-        word: "Casa",
-    meaning: "خانه",
-    example: "Mi casa es grande."
-     },
-     {
+       {
      word: "Libro",
     meaning: "کتاب",
     example: "Estoy leyendo un libro."
