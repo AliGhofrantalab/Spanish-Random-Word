@@ -9,6 +9,11 @@ const words = [
     meaning: "خانه",
     example: "Mi casa es grande."
      },
+      {
+    word: "Perro",
+    meaning: "سگ",
+    example: "Tengo un perro."
+  },
      {
         word: "Casa",
     meaning: "خانه",
