@@ -41,7 +41,7 @@ https://alighofrantalab.github.io/Spanish-Random-Word/
 
 ## 📸 Preview
 
-![Spanish-Random-Word](SpanishRandomWord - Screenshot.png)---
+![preview](SpanishRandomWord-Screenshot.png)
 
 ## 🧭 Version History
 
