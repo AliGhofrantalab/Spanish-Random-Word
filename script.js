@@ -1,34 +1,34 @@
 const words = [
-     {
-        word: "Hola",
+  {
+    word: "Hola",
     meaning: "سلام",
     example: "Hola, ¿cómo estás?"
-     },
-     {
-        word: "Casa",
+  },
+  {
+    word: "Casa",
     meaning: "خانه",
     example: "Mi casa es grande."
-     },
-      {
-       word: "Perro",
+  },
+  {
+    word: "Perro",
     meaning: "سگ",
     example: "Tengo un perro."
   },
-       {
-     word: "Libro",
+  {
+    word: "Libro",
     meaning: "کتاب",
     example: "Estoy leyendo un libro."
-     }
-
+  }
 ]
-const wordE= document.getElementById("word")
+
+const wordE = document.getElementById("word")
 const meaningE = document.getElementById("meaning")
 const exampleE = document.getElementById("example")
 const btn = document.getElementById("btn")
-let lastIndex = -1
-btn.addEventListener("click" ,showWord )
-function showWord() {
 
+let lastIndex = -1
+
+function showWord() {
   let randomIndex
 
   do {
@@ -43,5 +43,13 @@ function showWord() {
   meaningE.textContent = selectedWord.meaning
   exampleE.textContent = selectedWord.example
 }
-    showWord()
-    window.onload=showWord;
+
+btn.addEventListener("click", showWord)
+
+const themeToggle = document.getElementById("themeToggle")
+
+themeToggle.addEventListener("change", () => {
+  document.body.classList.toggle("dark-mode")
+})
+
+showWord()
